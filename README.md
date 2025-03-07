@@ -18,8 +18,8 @@ Before running the project, ensure you have the following installed:
 
 Start the Server using
 node server.js
-
- The server will be available on http://localhost:3000 by default.
+   
+   The server will be available on http://localhost:3000 by default.
 
 ## Usage
 Open the application in a browser.
@@ -46,4 +46,7 @@ Clone this repository and install the necessary dependencies:
 git clone https://github.com/neehalp/p2p-file-transfer.git
 cd p2p-file-transfer
 npm install
+
+
+
 
